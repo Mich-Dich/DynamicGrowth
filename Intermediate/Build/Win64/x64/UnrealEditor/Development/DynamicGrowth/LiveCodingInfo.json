@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DynamicGrowth.cpp.obj": [
+			"DG_Base.gen.cpp.obj",
+			"DynamicGrowth.init.gen.cpp.obj",
+			"DynamicGrowthBPLibrary.gen.cpp.obj",
+			"DG_Base.cpp.obj",
+			"DynamicGrowth.cpp.obj",
+			"DynamicGrowthBPLibrary.cpp.obj"
+		]
+	}
+}

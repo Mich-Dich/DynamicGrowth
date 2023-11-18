@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DynamicGrowth.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UEProjects\MeshGeneration\Intermediate\Build\Win64\x64\MeshGenerationEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\UEProjects\MeshGeneration\Plugins\DynamicGrowth\Intermediate\Build\Win64\x64\UnrealEditor\Development\DynamicGrowth\Module.DynamicGrowth.cpp.obj"
+"C:\UEProjects\MeshGeneration\Plugins\DynamicGrowth\Intermediate\Build\Win64\x64\UnrealEditor\Development\DynamicGrowth\Default.rc2.res"
+/OUT:"C:\UEProjects\MeshGeneration\Plugins\DynamicGrowth\Intermediate\Build\Win64\x64\UnrealEditor\Development\DynamicGrowth\UnrealEditor-DynamicGrowth.lib"

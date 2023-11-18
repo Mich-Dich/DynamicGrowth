@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ueprojects\\meshgeneration\\plugins\\dynamicgrowth\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dynamicgrowth\\module.dynamicgrowth.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ueprojects\\meshgeneration\\intermediate\\build\\win64\\x64\\meshgenerationeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\ueprojects\\meshgeneration\\plugins\\dynamicgrowth\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dynamicgrowth\\definitions.dynamicgrowth.h",
+            "c:\\ueprojects\\meshgeneration\\plugins\\dynamicgrowth\\intermediate\\build\\win64\\unrealeditor\\inc\\dynamicgrowth\\uht\\dg_base.gen.cpp",
+            "c:\\ueprojects\\meshgeneration\\plugins\\dynamicgrowth\\source\\dynamicgrowth\\public\\dg_base.h",
+            "c:\\ueprojects\\meshgeneration\\plugins\\dynamicgrowth\\intermediate\\build\\win64\\unrealeditor\\inc\\dynamicgrowth\\uht\\dg_base.generated.h",
+            "c:\\ueprojects\\meshgeneration\\plugins\\dynamicgrowth\\intermediate\\build\\win64\\unrealeditor\\inc\\dynamicgrowth\\uht\\dynamicgrowth.init.gen.cpp",
+            "c:\\ueprojects\\meshgeneration\\plugins\\dynamicgrowth\\intermediate\\build\\win64\\unrealeditor\\inc\\dynamicgrowth\\uht\\dynamicgrowthbplibrary.gen.cpp",
+            "c:\\ueprojects\\meshgeneration\\plugins\\dynamicgrowth\\source\\dynamicgrowth\\public\\dynamicgrowthbplibrary.h",
+            "c:\\ueprojects\\meshgeneration\\plugins\\dynamicgrowth\\intermediate\\build\\win64\\unrealeditor\\inc\\dynamicgrowth\\uht\\dynamicgrowthbplibrary.generated.h",
+            "c:\\ueprojects\\meshgeneration\\plugins\\dynamicgrowth\\source\\dynamicgrowth\\private\\dg_base.cpp",
+            "c:\\ueprojects\\meshgeneration\\plugins\\dynamicgrowth\\source\\dynamicgrowth\\private\\dynamicgrowth.cpp",
+            "c:\\ueprojects\\meshgeneration\\plugins\\dynamicgrowth\\source\\dynamicgrowth\\public\\dynamicgrowth.h",
+            "c:\\ueprojects\\meshgeneration\\plugins\\dynamicgrowth\\source\\dynamicgrowth\\private\\dynamicgrowthbplibrary.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
